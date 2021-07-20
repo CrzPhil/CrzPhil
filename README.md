@@ -1,15 +1,11 @@
 ### Hi there, I'm Philip - aka [C4rm3l0][website] 👋
 
-[![Website](https://crzphil.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a self-taught Programmer, Developer, and Pentester!
 
 - 🔭 I am currently working on a [Multi-Agent Reinforcement learning Hide & Seek Algorithm][hideandseek] in python!  
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -40,3 +36,5 @@
 
 [hideandseek]: https://github.com/CrzPhil/HideandSeek
 [linkedin]: www.linkedin.com/in/philipgiavridis
+[website]: https://crzphil.github.io/
+
