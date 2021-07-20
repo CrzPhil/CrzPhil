@@ -8,7 +8,7 @@
 
    [![C4rm3l0](https://www.hackthebox.eu/badge/image/458049)](https://www.hackthebox.eu/home/users/profile/458049)
 
-- 📈 I like using Hackerrank to sharpen my problem-solving skills 
+- 📈 I like using [Hackerrank][hackerrank] to sharpen my problem-solving skills 
 - 📕 I sometimes post challenge Walkthroughs on [Medium][medium]
 
    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
@@ -52,3 +52,4 @@
 [website]: https://crzphil.github.io/
 [htb]: https://app.hackthebox.eu/home
 [medium]: https://medium.com/@carmelos
+[hackerrank]: https://www.hackerrank.com/philippos_g
