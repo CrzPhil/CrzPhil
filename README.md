@@ -3,9 +3,12 @@
 ## I'm a self-taught Programmer, Developer, and Pentester!
 
 - 🔭 I am currently working on a [Multi-Agent Reinforcement learning Hide & Seek Algorithm][hideandseek] in python!  
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🖊 I love learning about Cryptography and solving challenges
+- 🎩 I am really active on [HackTheBox][htb] and currently have a rank of Hacker
+
+   [![C4rm3l0](https://www.hackthebox.eu/badge/image/458049)](https://www.hackthebox.eu/home/users/profile/458049)
+
+- 🥅 2021 Goals: Get my CCNA certification and start studying for OSCP
 
 ### Connect with me:
 
@@ -37,4 +40,5 @@
 [hideandseek]: https://github.com/CrzPhil/HideandSeek
 [linkedin]: www.linkedin.com/in/philipgiavridis
 [website]: https://crzphil.github.io/
+[htb]: https://app.hackthebox.eu/home
 
