@@ -1,6 +1,6 @@
 ### Hi there, I'm Philip - aka [C4rm3l0][website] 👋
 
-## I'm a self-taught Programmer, Developer, and Pentester!
+## I'm a self-taught Programmer, Developer, and Pentester (WIP)!
 
 - 🔭 I am currently working on a [Multi-Agent Reinforcement learning Hide & Seek Algorithm][hideandseek] in python!  
 - 🖊 I love learning about Cryptography and solving challenges
@@ -8,7 +8,10 @@
 
    [![C4rm3l0](https://www.hackthebox.eu/badge/image/458049)](https://www.hackthebox.eu/home/users/profile/458049)
 
-- 📈 I like using [Hackerrank][hackerrank] to sharpen my problem-solving skills 
+- 📈 I like solving programming challenges on [Hackerrank][hackerrank] to sharpen my problem-solving skills 
+
+   <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+   
 - 📕 I sometimes post challenge Walkthroughs on [Medium][medium]
 
    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
@@ -29,7 +32,7 @@
 </p>
 
    <p align="center">
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>      
+<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>     
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>      
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>      
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>      
@@ -46,7 +49,7 @@
 </p>
 <p align="center">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">     
-<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">    
+<img alt="IOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">    
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="TailsOS" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" /> 
 </p>
