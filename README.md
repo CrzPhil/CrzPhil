@@ -1,8 +1,8 @@
 ### Hi there, I'm Philip - aka [C4rm3l0][website] 👋
 
-## I'm a self-taught Programmer, Developer, and Pentester (WIP)!
+## I'm a self-taught Programmer, and aspiring Pentester 
 
-- 🔭 I am currently working on a [Multi-Agent Reinforcement learning Hide & Seek Algorithm][hideandseek] in python!  
+- 🔭 I am currently working on a [Cryptography repository][crypto] written entirely in assembly!  
 - 🖊 I love learning about Cryptography and solving challenges
 - 🎩 I am really active on [HackTheBox][htb] and currently have a rank of Hacker
 
@@ -28,6 +28,7 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&color=D44E22"/>      
 <img alt= "C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=F67827"/>  
 <img alt= "x86" src="https://img.shields.io/badge/ASM-x86-%2300599C.svg?style=for-the-badge&logo=asm%2B%2B&logoColor=white&labelColor=D4223E&color=D4223E"/>  
+<img alt= "Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=EB4531"/>
 </p>
 
@@ -56,7 +57,7 @@
 <br />
 <br />
 
-[hideandseek]: https://github.com/CrzPhil/HideandSeek
+[crypto]: https://github.com/CrzPhil/NimbleNASM
 [linkedin]: www.linkedin.com/in/philipgiavridis
 [website]: https://crzphil.github.io/
 [htb]: https://app.hackthebox.eu/home
